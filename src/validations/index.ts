@@ -1,0 +1,1 @@
+export {default as getmastervalidation} from './GetMasterDataService.validation' 

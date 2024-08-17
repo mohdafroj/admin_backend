@@ -1,0 +1,17 @@
+export { default as departmentController } from './department/department.controller';
+export { default as designationController } from './designation/designation.controller';
+export { default as bankController } from './bank/bank.controller';
+export { default as countryController } from './country/country.controller';
+export { default as genderController } from './gender/gender.controller';
+export { default as disabilityController } from './disability/disability.controller';
+export { default as moduleController } from './module/module.controller';
+export { default as maritalStatusController } from './maritalStatus/maritalStatus.controller';
+export { default as roleController } from './role/role.controller';
+export { default as userTypeController } from './userType/userType.controller';
+export { default as subModuleController } from './subModule/subModule.controller';
+export { default as officerTypeController } from './officerType/officerType.controller';
+export { default as menuController } from './menu/menu.controller';
+export { default as userCommunicationDetailController } from './userCommunicationdetail/userCommunicationDetail.controller';
+export { default as userRoleMappingController } from './userRoleMapping/userRoleMapping.controller';
+export { default as userController } from './user/user.controller';
+export { default as mdmMasterController } from './mdmMaster/mdmMaster.controller';
